@@ -1,5 +1,5 @@
 # FPGA-Game-Studio presents: RPG Escape
-Our project involved creating an role-playing game where the first player needs to defeat the second player in five battles.  The first player controls their character on the map screen and the battle screen, while the second player only controls an enemy character during a battle.  Here is a link to the video we made about it: https://www.youtube.com/watch?v=nCmrHsxbnh4
+Our project involved creating an role-playing game where the first player needs to defeat the second player in five battles.  The first player controls their character on the map screen and the battle screen, while the second player only controls an enemy character during a battle.  Our inspiration for this game is Nintendo's Pokémon franchise.  Here is a link to the video we made about it: https://www.youtube.com/watch?v=nCmrHsxbnh4
 
 ## Required Materials
 The user(s) needs to have a computer program like Vivado or ISE, a computer keyboard with a USB plug, a Nexys 3 Spartan-6 FPGA (or similar device), and a VGA cord.
