@@ -1,4 +1,4 @@
-# FPGA-Game-Studio presents: RPG Escape
+# FPGA Game Studio presents: RPG Escape
 Our project involved creating a role-playing game where the first player needs to defeat the second player in five battles.  The first player controls their character on the map screen and the battle screen, while the second player only controls an enemy character during a battle.  Our inspiration for this game is Nintendo's Pokémon franchise.  The zip file should contain every file needed.  Here is a link to the video we made about it: https://www.youtube.com/watch?v=nCmrHsxbnh4
 
 ## Required Materials
